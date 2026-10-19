@@ -69,15 +69,6 @@ Hi! I'm Aqeel Khan, a developer passionate about building modern web application
 <img src="https://streak-stats.demolab.com/?user=aqeelkhan51214&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
 </p>
 
-🐍 Watch My Contributions Come to Life!
-
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqeelkhan51214/aqeelkhan51214/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqeelkhan51214/aqeelkhan51214/output/github-contribution-grid-snake.svg" />
-<img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/aqeelkhan51214/aqeelkhan51214/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-</p>
 
 🚀 What I'm Focused On
 💻 Building full-stack applications using MongoDB, Express.js, React, and Node.js.
