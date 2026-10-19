@@ -1,11 +1,11 @@
 👋 Hey, I'm Aqeel Khan!
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;AI+Engineer;Full+Stack+Web+Developer;Building+AI-Powered+Applications;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;AI+Engineer;Full+Stack+Web+Developer;Building+AI-Powered+Applications;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Animated typing introduction" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:007CF0,100:7F00FF&height=180&section=header&text=Aqeel%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Animated header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:007CF0,100:7F00FF&height=180&section=header&text=Aqeel%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Aqeel Khan animated banner" />
 </p>
 
 <p align="center">
@@ -18,19 +18,18 @@
 </a>
 <img src="https://img.shields.io/badge/MERN-Stack-00C853?style=for-the-badge" alt="MERN Stack" />
 <img src="https://img.shields.io/badge/AI-Engineer-7C3AED?style=for-the-badge" alt="AI Engineer" />
-<img src="https://img.shields.io/badge/Open_to_Collaborate-Yes-00BFA6?style=for-the-badge" alt="Open to collaboration" />
 </p>
 
 👨‍💻 About Me
 
-Hi! I'm Aqeel Khan, a passionate developer interested in building modern web applications and intelligent AI-powered solutions.
+Hi! I'm Aqeel Khan, a developer passionate about building modern web applications and intelligent AI-powered solutions.
 
-🌐 Developing full-stack applications with the MERN stack.
+🌐 Building full-stack applications using the MERN stack.
 🤖 Exploring artificial intelligence, LLMs, and generative AI.
-💡 Interested in building useful, scalable, real-world software.
+💡 Interested in scalable applications and real-world problem-solving.
 ⚡ Always learning new technologies and improving my skills.
 🤝 Open to collaboration, innovative ideas, and open-source projects.
-🎯 My goal is to combine web development and AI to build smarter applications.
+🎯 Combining web development and AI to create smarter applications.
 🛠️ Tech Stack & Skills
 🌐 Frontend Development
 
@@ -70,18 +69,23 @@ Hi! I'm Aqeel Khan, a passionate developer interested in building modern web app
 <img src="https://streak-stats.demolab.com/?user=aqeelkhan51214&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
 </p>
 
+🐍 Watch My Contributions Come to Life!
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqeelkhan51214/aqeelkhan51214/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqeelkhan51214/aqeelkhan51214/output/github-contribution-grid-snake.svg" />
+<img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/aqeelkhan51214/aqeelkhan51214/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+</p>
+
 🚀 What I'm Focused On
 💻 Building full-stack applications using MongoDB, Express.js, React, and Node.js.
 🧠 Learning AI engineering and modern language-model technologies.
-🔗 Integrating AI APIs into web applications.
-🏗️ Writing clean, maintainable code and designing scalable applications.
+🔗 Integrating AI models and APIs into web applications.
+🏗️ Improving code quality, software architecture, and problem-solving skills.
 🌍 Creating projects that solve practical problems.
 💡 My Developer Mindset
-
-<p align="center">
-<img src="https://img.shields.io/badge/Think-Build-Innovate-00D9FF?style=for-the-badge" alt="Think Build Innovate" />
-</p>
-
 const aqeel = {
   name: "Aqeel Khan",
   username: "aqeelkhan51214",
@@ -107,15 +111,15 @@ console.log("Let's build something amazing! 🚀");
 </p>
 
 <p align="center">
-💬 Interested in collaboration or have an exciting project idea? Let's connect!
+💬 Have an exciting project idea? Let's collaborate and build something awesome!
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:007CF0,100:00D9FF&height=120&section=footer" width="100%" alt="Animated footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:007CF0,100:00D9FF&height=120&section=footer" width="100%" alt="Animated footer banner" />
 </p>
 
 <p align="center">
-<b>⭐ Thanks for visiting my profile! Have a great day. ⭐</b>
+<b>⭐ Thanks for visiting my profile! ⭐</b>
 </p>
 
 <p align="center">
